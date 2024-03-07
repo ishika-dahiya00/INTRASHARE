@@ -1,9 +1,11 @@
-**INTRASHARE** - Intranet-Based Message and Document Sharing System
+<h1>INTRASHARE</h1> 
+<h2>Intranet-Based Message and Document Sharing System</h2>
+<br>
 Welcome to INTRASHARE, a secure and centralized platform designed for internal communication and efficient sharing of documents within organizations. 
 INTRASHARE serves as a private network accessible only to authorized users, enhancing collaboration, information exchange, and document management.
 
-**Features**: <br>
-<br>
+<h2>Features:</h2> 
+
 _General Features_
 - Home Page: Welcoming to INTRASHARE main chat application.
 - Searching: Can search messages & documents shared between users.
